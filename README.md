@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Krish 👋
 
-<!--
-**KrishSingh2302/KrishSingh2302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Who am I?**  
+An engineering student passionate about embedded systems, FPGA design, and digital signal processing. I enjoy working close to the hardware—writing RTL, testing on real boards, and understanding how things work at the lowest level.
 
-Here are some ideas to get you started:
+**What am I currently working on?**  
+I’m building projects around FPGA-based signal processing, baseband communication chains, and ARM-based embedded systems. Most of my current work involves Verilog, RTL design, and experimenting on the Zybo Z7.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools & Tech I use:**  
+Verilog · Vivado · MATLAB/Simulink · Python · C/C++ · ARM Toolchain · Git/GitHub
+
+**How to reach me:**  
+📧 krishsingh0209@gmail.com  
+🔗 GitHub: https://github.com/KrishSingh2302
